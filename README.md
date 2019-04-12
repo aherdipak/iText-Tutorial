@@ -1,5 +1,5 @@
 # iText-Tutorial
-Read and Write PDF in Java
+Write PDF in Java
 
 #### Download iText Library:
 https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.5.13
